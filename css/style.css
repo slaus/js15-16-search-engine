@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  padding: 20px;
+}
+.search {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+.clearfix {
+  clear: both;
+  padding-bottom: 20px;
+}
+.search__img {
+  height: 120px;
+  display: inline-block;
+  padding: 5px;
+}
